@@ -1,0 +1,1 @@
+x = msgbox("Aimbot file is either removed or renamed.", 6 + 48, "Critical error:")

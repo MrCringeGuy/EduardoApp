@@ -1,1 +1,0 @@
-x = msgbox("Reboot file is either removed or renamed.", 6 + 48, "Critical error:")
